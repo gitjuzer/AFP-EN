@@ -9,3 +9,4 @@ Currently FB is the most widely used social networking system.
 3. Functional reqs
 
 4. Technical reqs
+Web and windows applications are required.
