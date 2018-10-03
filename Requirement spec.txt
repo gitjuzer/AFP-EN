@@ -1,6 +1,7 @@
 Better Facebook
 
 1. Introduction
+Our goal is to beat FB by creating a much better application.
 
 2. Current
 
